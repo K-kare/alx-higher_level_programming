@@ -2,5 +2,5 @@
 def square_matrix_simple(matrix=[]):
     squared = matrix.copy()
     for i in range(len(matrix)):
-        squared[i]  = list(map(lambda x: x*x, matrix[i]))
+        squared[i] = list(map(lambda x: x*x, matrix[i]))
     return (squared)
