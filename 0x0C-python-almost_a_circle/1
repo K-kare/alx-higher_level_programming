@@ -1,0 +1,11 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /root/alx-higher_level_programming/0x0C-python-almost_a_circle
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../                                            0 Mon 12 Feb 2024 03:54:41 AM PST
+./                                             0 Mon 12 Feb 2024 03:52:30 AM PST
+README.md                                     28 Mon 12 Feb 2024 03:50:59 AM PST
+tests/                                         0 Mon 12 Feb 2024 03:54:34 AM PST
