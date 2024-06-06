@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Define the square"""
 
+
 class Square:
     """Represent the square"""
 
@@ -15,6 +16,7 @@ class Square:
     def size(self):
         """get/set the current size of the square."""
         return (self.__size)
+
     @size.setter
     def size(self, value):
         if not isinstance(value, int):
@@ -34,4 +36,3 @@ class Square:
             print("")
         if self.__size == 0:
             print("")
-
